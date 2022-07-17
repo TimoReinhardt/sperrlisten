@@ -1,0 +1,5 @@
+######################################################################################################
+# Sperrliste für Gruppe 2
+# Mitglieder dieser Gruppe sind im Internen Netzwerk unter dns.intern/document/gruppen.html verfügbar.
+######################################################################################################
+0.0.0.0 sperrtest-gruppe2.de
