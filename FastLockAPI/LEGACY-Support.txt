@@ -1,0 +1,5 @@
+#################################################################
+# Dieses TXT wird nur bis FastLockAPI Version 0.4 unterstützt.  #
+# Letzte Aktualisierung: nie                                    #
+#################################################################
+fastlock.emptylist
